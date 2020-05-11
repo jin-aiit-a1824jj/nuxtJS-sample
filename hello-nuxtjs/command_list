@@ -39,4 +39,7 @@ npm run dev
 
 npx create-nuxt-app nuxt-async
 npm install axios
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/users
+
 
