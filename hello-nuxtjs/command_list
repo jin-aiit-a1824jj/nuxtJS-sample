@@ -49,3 +49,5 @@ http://localhost:3000/favicon.ico
 http://localhost:3000/robots.txt
 
 
+
+npx create-nuxt-app nuxt-vuex
