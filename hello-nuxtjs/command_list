@@ -32,3 +32,6 @@ npm run dev
 
 npx create-nuxt-app nuxt-view
 npm run dev
+
+
+**/nuxt-view/.nuxt/views/app.template.html
