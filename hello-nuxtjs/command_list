@@ -38,3 +38,5 @@ npm run dev
 
 
 npx create-nuxt-app nuxt-async
+npm install axios
+
