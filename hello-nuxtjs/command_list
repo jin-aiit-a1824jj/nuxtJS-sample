@@ -37,3 +37,4 @@ npm run dev
 **/nuxt-view/.nuxt/views/app.template.html
 
 
+npx create-nuxt-app nuxt-async
