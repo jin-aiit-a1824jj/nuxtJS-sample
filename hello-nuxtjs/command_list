@@ -1,0 +1,11 @@
+npm init
+//npm install --save nuxt
+npx create-nuxt-app hello-nuxt
+
+#To get started:
+cd hello-nuxt
+npm run dev
+
+#To build & start for production:
+cd hello-nuxt
+npm run build
