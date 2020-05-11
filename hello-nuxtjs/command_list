@@ -43,3 +43,8 @@ https://jsonplaceholder.typicode.com/
 https://jsonplaceholder.typicode.com/users
 
 
+
+npx create-nuxt-app nuxt-assets
+
+
+
