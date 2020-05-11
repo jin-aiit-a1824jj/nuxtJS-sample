@@ -45,6 +45,7 @@ https://jsonplaceholder.typicode.com/users
 
 
 npx create-nuxt-app nuxt-assets
-
+http://localhost:3000/favicon.ico
+http://localhost:3000/robots.txt
 
 
