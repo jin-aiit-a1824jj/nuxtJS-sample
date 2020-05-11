@@ -8,7 +8,7 @@
       <!-- <button v-on:click="$store.dispatch('updateMessageAction', 'Commit with payload')">Dispatch</button> -->
 
       <p>{{ $store.state.hello.message }}</p> 
-      <button v-on:click="$store.dispatch('hello/updateMessageAction', 'Commit with payload')">Dispatch</button>
+      <button v-on:click="$store.dispatch('hello/updateMessageAction', 'Dispatch with payload')">Dispatch</button>
     </div>
   </div>
 </template>
