@@ -16,3 +16,6 @@ server: {
   host: '0.0.0.0' // デフォルト: localhost
 }
 
+
+http://127.0.0.1:8000/price
+
