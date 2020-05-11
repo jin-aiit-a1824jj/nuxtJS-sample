@@ -21,3 +21,6 @@ http://127.0.0.1:8000/price
 **/scratch-app
 npm install --save nuxt
 npm run build
+
+
+npx create-nuxt-app nuxt-routing
