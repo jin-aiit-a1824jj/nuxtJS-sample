@@ -29,3 +29,6 @@ npm run dev
 
 **/nuxt-routing/.nuxt/router.js
 
+
+npx create-nuxt-app nuxt-view
+npm run dev
