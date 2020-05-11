@@ -54,3 +54,7 @@ npx create-nuxt-app nuxt-vuex
 
 
 npx create-nuxt-app nuxt-vuex-counter
+
+
+npx create-nuxt-app nuxt-todo
+Choose rendering mode Single Page App
