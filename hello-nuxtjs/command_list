@@ -51,3 +51,6 @@ http://localhost:3000/robots.txt
 
 
 npx create-nuxt-app nuxt-vuex
+
+
+npx create-nuxt-app nuxt-vuex-counter
