@@ -60,3 +60,4 @@ npx create-nuxt-app nuxt-todo
 Choose rendering mode Single Page App
 npm install --save firebase
 npm install --save vuexfire
+npm install --save @nuxtjs/dotenv
