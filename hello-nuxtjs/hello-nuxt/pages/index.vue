@@ -4,6 +4,8 @@
     <p>{{ message }}</p>
     <hr>
     <router-link to="/price">Price Page</router-link>
+    <hr>
+    <router-link to="/mypage">My Page</router-link>
   </section>
 </template>
 
