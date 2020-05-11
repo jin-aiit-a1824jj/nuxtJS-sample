@@ -1,11 +1,14 @@
 <template>
   <div class="container">
     <div>
-      <p>{{ $store.state.message }}</p>
+      <!-- <p>{{ $store.state.message }}</p> -->
       <!-- <button v-on:click="$store.commit('updateMessage')">Update</button> -->
       <!-- <button v-on:click="$store.commit('updateMessage', 'Commit with payload')">Update</button> -->
       <!-- <button v-on:click="$store.dispatch('updateMessageAction')">Dispatch</button> -->
-      <button v-on:click="$store.dispatch('updateMessageAction', 'Commit with payload')">Dispatch</button>
+      <!-- <button v-on:click="$store.dispatch('updateMessageAction', 'Commit with payload')">Dispatch</button> -->
+
+      <p>{{ $store.state.hello.message }}</p> 
+      <button v-on:click="$store.dispatch('hello/updateMessageAction', 'Commit with payload')">Dispatch</button>
     </div>
   </div>
 </template>
