@@ -1,5 +1,4 @@
 npm init
-//npm install --save nuxt
 npx create-nuxt-app hello-nuxt
 
 #To get started:
@@ -19,3 +18,5 @@ server: {
 
 http://127.0.0.1:8000/price
 
+**/scratch-app
+npm install --save nuxt
